@@ -18,9 +18,10 @@ body {
     border-radius: 8px;
 }
 
-h1 {
+h1{
     text-align: center;
-    margin-bottom: 20px;
+    padding: 20px;
+    margin-bottom: 2opx;
     color: #333;
 }
 
